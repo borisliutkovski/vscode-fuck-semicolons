@@ -1,0 +1,22 @@
+{
+    "name": "fuck-semicolons",
+    "displayName": "Fuck semicolons",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "Me",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fuck semicolons",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fuck semicolons-color-theme.json"
+            }
+        ]
+    }
+}
